@@ -12,8 +12,12 @@ h1 {
 .maindiv {
   background-color: white;
   color: black;
-  width: 300px;
+  width: 30%;
   padding: 20px;
   border-radius: 25px;
-  align-items: center;
+}
+
+yellowBg {
+  background-color: yellow;
+  color: black;
 }
