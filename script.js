@@ -10,7 +10,7 @@ function compute(){
     var amount = parseInt(principal) + parseInt(interest);
 
     if (principal<=0){
-        alert("Enter a positive principal amount");
+        alert("Enter positive amount")
         principalAmountElement.focus();
         return false;
     }
